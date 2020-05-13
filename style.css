@@ -1,0 +1,136 @@
+ body{
+    background: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    margin: 0;
+    padding: 0;
+    min-width: 1147px;
+
+}
+header {
+    color: black;
+    background-color: white;
+    height: 600px;
+    background-image: url("images/htower.JPG");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10px 10px ;
+    margin: auto;
+
+}
+section {
+    color: white;
+    background-color: black;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    text-align: center;
+    
+}
+footer {
+    color:black;
+    background-color: white;
+    padding: 20px 40px;
+}
+div {
+    background-color: black;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+}
+header h1 {
+    text-align: center;
+}
+.work img{
+    margin: 0;
+    width: 500px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0px 10px 0px 0px;
+}
+.work {
+    height: 276px;
+    width: 558px;
+    min-width: 1108px;
+}
+.qualif img {
+    height: 276px;
+    width: 558px;
+}
+.qualif {
+    min-width: 1108px;
+    width: 617.45px;
+}
+footer ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+footer li {
+    display: inline-block;
+    margin-right: 20px;
+}
+footer {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+.contentsindex {
+    display: flex;
+    flex-direction: column;
+    list-style: initial;
+    color: black;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+table th {
+    text-align: left;
+    background-color: steelblue;
+    color: black;
+    padding: 4px 30px 4px 8px;
+}
+table td {
+    border: 1px solid steelblue;
+    padding: 4px 8px;
+    text-align: left;
+}
+.paragraph1 {
+    justify-content: center;
+}
+h4 a {
+    color: white;
+}
+.cssdescribe {
+    display: flex;
+    justify-content: center;
+}
