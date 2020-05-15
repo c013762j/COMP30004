@@ -13,5 +13,10 @@ body {
 p{
     display: inline-block;
     align-content: space-between;
-    border: 3px solid black;
+    
+    margin-right: 5px;
+}
+button{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
 }
