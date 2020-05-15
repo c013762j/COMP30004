@@ -1,0 +1,10 @@
+body{
+    background-color: lightskyblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+label{
+    width: 200px;
+    display: inline-block;
+}
